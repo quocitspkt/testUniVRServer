@@ -1,0 +1,68 @@
+{
+    "name": "UniVR",
+    "version": "55",
+    "description": "app description...",
+    "projects": [
+        {
+            "name": "Test Project",
+            "config" : {
+                "backgroundUrl": "test/overview"
+            },
+            "houses": [
+                {
+                    "name": "S101",
+                    "url": "house url",
+                    "info1": "house info1",
+                    "info2": "house info2",
+                    "config" : {
+                        "backgroundUrl": "test/s101"
+                    }
+                },
+                {
+                    "name": "S102",
+                    "url": "house url",
+                    "info1": "house info1",
+                    "info2": "house info2",
+                    "config" : {
+                        "backgroundUrl": "test/s102"
+                    }
+                },
+                {
+                    "name": "S103",
+                    "url": "house url",
+                    "info1": "house info1",
+                    "info2": "house info2",
+                    "config" : {
+                        "backgroundUrl": "test/s103"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "City SG",
+            "config" : {
+                "backgroundUrl": "city-sg/overview"
+            },
+            "houses": [
+                {
+                    "name": "S101",
+                    "url": "house url",
+                    "info1": "house info1",
+                    "info2": "house info2",
+                    "config" : {
+                        "backgroundUrl": "city-sg/s101"
+                    }
+                },
+                {
+                    "name": "S102",
+                    "url": "house url",
+                    "info1": "house info1",
+                    "info2": "house info2",
+                    "config" : {
+                        "backgroundUrl": "city-sg/s102"
+                    }
+                }
+            ]
+        }
+    ]
+}

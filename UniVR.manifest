@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3269874890
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: map
+      Dependencies: {}
+    Info_1:
+      Name: city-sg/overview
+      Dependencies: {}
+    Info_2:
+      Name: test/overview
+      Dependencies: {}
+    Info_3:
+      Name: test/s101
+      Dependencies: {}
+    Info_4:
+      Name: assets/ui
+      Dependencies: {}
